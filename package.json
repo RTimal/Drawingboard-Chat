@@ -1,7 +1,7 @@
 {
   "name": "RTdrawingboardchat",
   "description": "Drawing Board Chat Server",
-  "version": "0.3.0-12",
+  "version": "0.3.0-13",
   "private": true,
   "dependencies": {
     "express": "3.0.1",
